@@ -1,2 +1,48 @@
-# Machine_Learning_Python_Version
-This repository is the collection of python scripts for solving real-world problems with Machine Learning and Deep Learning
+# Machine Learning Python Version
+This repository is the collection of python scripts for solving real-world problems with Machine Learning and Deep Learning. Following is the file structure for the repository:
+
+* Data Preprocessing
+
+* Regression
+  * Simple Linear Regression
+  * Multiple Linear Regression
+  * Support Vector Regression (SVR)
+  * Decision Tree Regression
+  * Random Forest Regression
+
+* Classifiction
+  * Logistic Regression
+  * Support Vector Machine (SVM)
+  * Kernel SVM
+  * Naive Bayes
+  * Decision Tree Classification
+  * Random Forest Classification
+
+* Clustering
+  * K-Means Clustering
+  * Hierarchical Clustering
+
+*  Association Rule Learning
+  * Apriori
+  * Eclat
+
+* Reinforcement Learning
+  * Upper Confidence Bound
+  * Thompson Sampling
+
+* Natural Language Processing
+
+* Deep Learning
+  * Artificial Neural Networks (ANN)
+  * Convolutional Neural Networks (CNN)
+  * Recurrent Neural Networks (RNN)
+
+* Dimensionality Reduction
+  * Principle Component Analysis (PCA)
+  * Linear Discriminant Analysis (LDA)
+  * Kernel PCA
+
+* Model Selection and Boosting
+  * K-Flod Cross Validation
+  * Grid Search
+  * XGBoost
