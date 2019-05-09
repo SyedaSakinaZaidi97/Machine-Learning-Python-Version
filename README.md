@@ -1,5 +1,10 @@
 # Machine Learning Python Version
-This repository is the collection of python scripts for solving real-world problems with Machine Learning and Deep Learning. Following is the file structure for the repository:
+This repository is the collection of python scripts for solving real-world problems with Machine Learning and Deep Learning. In case of any query or information kindly contact me via:
+
+email: sakinazaidi77@gmail.com
+LinkedIn: https://www.linkedin.com/in/sakina-zaidi-351ba3153/
+
+Following is the file structure for the repository:
 
 * Data Preprocessing
 
